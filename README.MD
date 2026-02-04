@@ -1,4 +1,4 @@
-# E2E API Tests — Basket / Products / Delivery (Playwright + TypeScript)
+# E2E API Tests — Basket / Products / Delivery (RestAssured + Java)
 
 This repository contains automated **E2E API tests** for the shopping basket service.
 
